@@ -1,0 +1,35 @@
+{
+  "name": "cyberpunk-react",
+  "version": "0.1.0",
+  "description": "cyberpunk-ui base React",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberpunk-ui/cyberpunk-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyberpunk-ui/cyberpunk-react/issues"
+  },
+  "homepage": "https://github.com/cyberpunk-ui/cyberpunk-react#readme",
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "cz-conventional-changelog": "^3.2.0",
+    "typescript": "^4.0.2",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
