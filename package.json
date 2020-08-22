@@ -1,6 +1,6 @@
 {
   "name": "cyberpunk-react",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "cyberpunk-ui base React",
   "main": "dist/lib/cyberpunk-react.js",
   "types": "dist/lib/cyberpunk-react.d.ts",
