@@ -5,9 +5,8 @@ cyberpunk-ui base React
 
 **第一期**
 * [ ] 搭建项目基本框架，安装常用工具栈
-* [ ] 排除.idea和dist目录的上传
-* [ ] 完成Icon组件 
 * [ ] 完成持续集成搭建
+* [ ] 完成Icon组件 
 * [ ] 完成Dialog组件
 * [ ] 完成Layout组件
 * [ ] 制作组件库官网
