@@ -5,8 +5,8 @@
   "main": "dist/lib/cyberpunk-react.js",
   "types": "dist/lib/cyberpunk-react.d.ts",
   "scripts": {
+    "start": "npm run dev",
     "dev": "cross-env NODE_ENV=development webpack-dev-server --config ./config/webpack.config.dev.js",
-    "start": "cross-env NODE_ENV=development webpack-dev-server --config ./config/webpack.config.dev.js",
     "build": "cross-env NODE_ENV=production webpack --config ./config/webpack.config.prod.js",
     "test": "cross-env NODE_ENV=test jest --config jest.config.js --runInBand",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"

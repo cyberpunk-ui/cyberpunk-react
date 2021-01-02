@@ -2,7 +2,7 @@ const path = require('path')
 
 module.exports = {
   entry: {
-    'cyberpunk-react': path.resolve(__dirname, '../lib/index.tsx')
+    'cyberpunk-react': path.resolve(__dirname, '../src/index.tsx')
   },
   output: {
     path: path.resolve(__dirname, '../dist/lib'),

@@ -62,3 +62,5 @@ typings/
 
 # custome
 dist/
+.vscode/
+.idea/
